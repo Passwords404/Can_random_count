@@ -1,0 +1,5 @@
+# Can_random_count
+用于PCAN以及ZCAN_PRO的CAN数据随机度测试
+
+pcan_seed_count.py对应pcan导出的can数据，can数据文件导出格式改为xxx.txt，然后在代码中更改文件名
+pcan_seed_count.py对应zcan_pro导出的can数据，can数据文件导出格式改为xxx.txt，然后在代码中更改文件名
